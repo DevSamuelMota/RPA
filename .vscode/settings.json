@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.py": "python"
+  },
+  "[py]": {
+    "files.autoGuessEncoding": false,
+    "files.encoding": "iso88591"
+    }
+
+}
